@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fime Agenda</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Agenda FIME</string>
+    <string name="nav_header_subtitle">Mi agenda FIME</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Notas</string>
+    <string name="menu_gallery">Calendario</string>
+    <string name="menu_slideshow">Horario</string>
+</resources>
